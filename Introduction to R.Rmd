@@ -1,8 +1,10 @@
 ---
 title: "Introduction to R Programming"
-author: "Sana Rasheed"
-date: "May 14, 2020"
-output: html_document
+author: "Sister Sana Rasheed"
+date: "June 17, 2022"
+output:
+  html_document:
+    df_print: paged
 ---
 
 
