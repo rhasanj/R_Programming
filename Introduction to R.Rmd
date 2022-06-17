@@ -2,8 +2,8 @@
 title: "Introduction to R Programming"
 author: "Sister Sana Rasheed"
 date: "June 17, 2022"
-output:
-  html_document:
+remarks: "will be given by the end of this course"
+html_document:
     df_print: paged
 ---
 
